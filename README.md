@@ -29,5 +29,5 @@ Username: admin@example.com
 Password: password
 ```
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Common API methods
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/afd9d802dee073e3a51a?action=collection%2Fimport)
