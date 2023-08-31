@@ -1,10 +1,4 @@
 {
   "dependencies": {
     "directus": "^9.14.3"
-  },
-  "scripts": {
-    "build": "yarn && docker run -d --name directus-db-container -p 5432:5432 danielalter/directus-db && npx directus bootstrap && npx directus start",
-    "output-dir": ".",
-    "install": "yarn"
-  }
 }
